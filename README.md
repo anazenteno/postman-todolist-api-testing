@@ -24,8 +24,5 @@ This project contains API tests created in Postman while practicing with a sampl
 1. Import the collection from `/collections/todolist_collection.json`
 2. Set up the environment from `/environments/local_env.json` (if used)
 3. Run each request manually or use the Collection Runner
-4. More step [Installation & Setup instructions](./HOW_TO_RUN.md)
-
-### Using Newman
-```bash
-newman run collections/todolist_collection.json -e environments/local_env.json
+4. Set up an automated test report to show the results clearly.
+5. More step [Installation & Setup instructions](./HOW_TO_RUN.md)
