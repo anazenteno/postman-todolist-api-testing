@@ -1,0 +1,39 @@
+{
+	"id": "4704c279-6463-458e-9d24-c508feedfeef",
+	"name": "Todoist-Tasks",
+	"values": [
+		{
+			"key": "content",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "description",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "task_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "content_create",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "description_create",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-05-09T22:27:56.388Z",
+	"_postman_exported_using": "Postman/11.12.0"
+}
